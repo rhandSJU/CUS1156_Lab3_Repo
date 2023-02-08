@@ -12,7 +12,8 @@ public class TestGeometricObject {
 		return geo1.getArea()==geo2.getArea();
 	}
 	
-	Double doub = new Double(5);
+	//Double doub = new Double(5); Older Version of doing line 16,
+	Double doub;
 	
 	
 }
