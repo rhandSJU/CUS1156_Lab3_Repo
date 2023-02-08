@@ -1,4 +1,4 @@
-package sampleCode;
+package abstractSampleCode;
 
 public interface Comparable<T> 
 {

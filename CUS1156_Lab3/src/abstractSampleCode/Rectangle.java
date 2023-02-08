@@ -1,4 +1,4 @@
-package sampleCode;
+package abstractSampleCode;
 
 public class Rectangle extends GeometricObject { 
 	private double width;

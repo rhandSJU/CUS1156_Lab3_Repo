@@ -1,4 +1,4 @@
-package sampleCode;
+package abstractSampleCode;
 
 public class Chicken extends Animal implements Edible {
 

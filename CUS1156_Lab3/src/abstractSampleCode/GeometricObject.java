@@ -1,4 +1,4 @@
-package sampleCode;
+package abstractSampleCode;
 
 public abstract class GeometricObject {
 	private String color = "white";

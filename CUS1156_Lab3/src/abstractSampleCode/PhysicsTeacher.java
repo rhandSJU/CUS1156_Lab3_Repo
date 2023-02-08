@@ -1,4 +1,4 @@
-package sampleCode;
+package abstractSampleCode;
 
 public class PhysicsTeacher extends Teacher{
 	String subject = "Physics";

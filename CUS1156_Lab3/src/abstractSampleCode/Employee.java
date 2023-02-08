@@ -1,4 +1,4 @@
-package sampleCode;
+package abstractSampleCode;
 
 public class Employee implements Comparable<Employee> {
 	String ID, name;
